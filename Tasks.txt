@@ -1,0 +1,11 @@
+These are the Tasks I have set for myself, to take before examination for OSCP:
+
+1. Brush up on the Metasploit framework - 50% of the way
+2. Brush up on Windows Linux terminal CMDs and privelage escallation - 40% of the way
+3. web application attacks(SQLI, XSS, Local File Intrusion, and cmd injection) - 40 - 60% of the way
+4. Nmap scans would help alot, know the difffrent ways I am able to use it - 90% way through
+5. Netcat and Ncat, would also help alot - 84% of the way through
+6. get better at wireshark or tcpdump - 40% of the way through
+7. Escaping restricted shells and spawning shells - 0% need to read up on this
+8. active directory attacks - 10% need to know more 
+8. know the diffrent techniques used for file tranfers, two I already know of is (FTP & SSH) need to know more...
