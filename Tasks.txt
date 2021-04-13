@@ -9,3 +9,6 @@ These are the Tasks I have set for myself, to take before examination for OSCP:
 7. Escaping restricted shells and spawning shells - 0% need to read up on this
 8. active directory attacks - 10% need to know more 
 8. know the diffrent techniques used for file tranfers, two I already know of is (FTP & SSH) need to know more...
+
+
+More information will be addad soon :)
